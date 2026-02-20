@@ -1,0 +1,23 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:player_head"
+		},
+		"title": "Player Head Drops from Charged Creepers",
+		"description": [
+			"",
+			{
+				"text": "A player will drop their head when killed by a Charged Creeper.",
+				"color": "gold"
+			}
+		],
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+	"parent": "vanillatweaks:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
