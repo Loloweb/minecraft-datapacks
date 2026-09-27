@@ -8,4 +8,4 @@ Modified to work with 26.3
 
 ## 🪪 License
 
-[AGPL-3.0-or-later](https://github.com/lullaby6/disable-too-expensive-data-pack/blob/main/LICENSE)
+[AGPL-3.0-or-later](./LICENSE)
